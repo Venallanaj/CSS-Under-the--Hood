@@ -31,7 +31,7 @@ How CSS works (Part 2)
 The Cascade:
 A cascade is a structure or a process that rules out different conflicting rules to decide the ultimate winning rule that will be applied to an element.
 
-The cascade following the three key rules inthe following order of privilege:
+The cascade following the four key rules inthe following order of privilege:
 
 ** Importance** // has the highest privilege
 ** Specificity**// has a liitle privilege than that A measure of how specifice a selector is.
